@@ -1,6 +1,7 @@
 #ifndef HARDWARE_H
 #define HARDWARE_H
-
+// Arquivo de definição de hardware: declara bibliotecas, pinos, variáveis globais,
+// objetos (LCD e servos) e protótipos de funções para controle do sistema
 #include <Arduino.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
